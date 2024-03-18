@@ -10,7 +10,7 @@ This repository contents are a part of my Raspberry-Pi's IR remote commander pro
 
 - - -
 
-## Contents of this repository
+## Contents of This Repository
 
     * README.md                     This file.
     * daikin-aircon.conf            LIRC remote configuration file for DAIKIN air conditioner.
